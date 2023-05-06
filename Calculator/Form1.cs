@@ -56,19 +56,20 @@ namespace Calculator
             Ans_Screen.Text = "";
         }
 
-        private void num_btn(object sender, EventArgs e)
+        private void num_btn(object sender, EventArgs e)//Numeric key Buttons
         {
             Button btn = new Button();
             btn = (Button)sender;
             screen.Text += btn.Text;
+
         }
 
-        private void plus(object sender, EventArgs e)
+        private void plus(object sender, EventArgs e)//Plus operator
         {
             screen.Text += '+';
         }
 
-        private void subtract(object sender, EventArgs e)
+        private void subtract(object sender, EventArgs e)//Minus operator
         {
             screen.Text += '-';
 

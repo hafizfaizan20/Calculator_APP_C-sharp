@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Samester 6\\Software construction  and development\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\sb\\Desktop\\new_calculator\\Calculator_APP_C-sharp\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "D:\\Samester 6\\Software construction  and development\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\sb\\Desktop\\new_calculator\\Calculator_APP_C-sharp\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\sb\\.nuget\\packages\\",
-      "outputPath": "D:\\Samester 6\\Software construction  and development\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\sb\\Desktop\\new_calculator\\Calculator_APP_C-sharp\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sb\\AppData\\Roaming\\NuGet\\NuGet.Config",
