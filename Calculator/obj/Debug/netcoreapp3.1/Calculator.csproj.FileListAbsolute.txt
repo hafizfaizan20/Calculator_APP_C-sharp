@@ -1,0 +1,16 @@
+D:\Samester 6\Software construction  and development\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\Samester 6\Software construction  and development\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\Samester 6\Software construction  and development\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\Samester 6\Software construction  and development\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\Samester 6\Software construction  and development\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\Samester 6\Software construction  and development\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Calculator.resources
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\Samester 6\Software construction  and development\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
