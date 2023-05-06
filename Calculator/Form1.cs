@@ -75,7 +75,7 @@ namespace Calculator
 
         }
 
-        private void multiply(object sender, EventArgs e)//Multiply operator
+        private void multiply(object sender, EventArgs e)
         {
             screen.Text += '*';
 
